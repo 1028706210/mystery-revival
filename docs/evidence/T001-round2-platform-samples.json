@@ -1,0 +1,44 @@
+{
+  "date": "2026-09-11",
+  "method": "read_thread live text compared with existing local exports; CRLF/LF normalization only",
+  "performedBy": "本任务（文档作者），不是外部核验器",
+  "scope": "9条关键消息抽查，非全量平台独立核验",
+  "checks": [
+    {
+      "messageId": "01a08bb2-f86e-7772-b0c9-7e0101e2696f",
+      "matches": true
+    },
+    {
+      "messageId": "01a08bb0-33ad-76a0-b9a0-1e2234aa1e93",
+      "matches": true
+    },
+    {
+      "messageId": "msg_09d34ebf322f367b016aa2bce4db1c87d181c02a2e529928d8",
+      "matches": true
+    },
+    {
+      "messageId": "01a08a90-def2-7041-9bb3-c078fd88b574",
+      "matches": true
+    },
+    {
+      "messageId": "msg_09d34ebf322f367b016aa2735d6e9c87d1bf50751b9c28cbb5",
+      "matches": true
+    },
+    {
+      "messageId": "01a08a85-2ff1-7070-9a93-81e32259994b",
+      "matches": true
+    },
+    {
+      "messageId": "msg_09d34ebf322f367b016aa27224103487d193bd6664c04fa642",
+      "matches": true
+    },
+    {
+      "messageId": "38ee23e6-8d8a-41dc-9945-26e46bbf174d",
+      "matches": true
+    },
+    {
+      "messageId": "94c7c265-c513-4c32-a2b3-1308e7dbf63b",
+      "matches": true
+    }
+  ]
+}

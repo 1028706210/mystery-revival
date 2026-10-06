@@ -1,0 +1,42 @@
+[
+  {
+    "target": "D:\\projects\\神秘复苏\\Docs\\design\\H25D-direction-20261004.md",
+    "staged": "C:\\Users\\李帅朋\\Documents\\ChatGPT\\神秘复苏\\coordination\\hybrid25d-20261004\\00-H25D-direction-20261004.md",
+    "before_sha256": null
+  },
+  {
+    "target": "D:\\projects\\神秘复苏\\Docs\\tasks\\H25D-01-dispatch.md",
+    "staged": "C:\\Users\\李帅朋\\Documents\\ChatGPT\\神秘复苏\\coordination\\hybrid25d-20261004\\01-H25D-01-dispatch.md",
+    "before_sha256": null
+  },
+  {
+    "target": "D:\\projects\\神秘复苏\\Docs\\TASKS.md",
+    "staged": "C:\\Users\\李帅朋\\Documents\\ChatGPT\\神秘复苏\\coordination\\hybrid25d-20261004\\02-TASKS.md",
+    "before_sha256": "4ed8eac10ff7d3527dab592a11b4f0a29bb5f009fa13e83102a89ba0bba481ba"
+  },
+  {
+    "target": "D:\\projects\\神秘复苏\\Docs\\GDD.md",
+    "staged": "C:\\Users\\李帅朋\\Documents\\ChatGPT\\神秘复苏\\coordination\\hybrid25d-20261004\\03-GDD.md",
+    "before_sha256": "ef83d55055eb7028ed2dbd86e72a74f6d2dd98bf68cdd373dcd8cd5b8709a11f"
+  },
+  {
+    "target": "D:\\projects\\神秘复苏\\Docs\\Roadmap.md",
+    "staged": "C:\\Users\\李帅朋\\Documents\\ChatGPT\\神秘复苏\\coordination\\hybrid25d-20261004\\04-Roadmap.md",
+    "before_sha256": "d7c3143485e536e1a5b5cc18724384de44e7511ae01d1d8b7571a42f23d66178"
+  },
+  {
+    "target": "D:\\projects\\神秘复苏\\Docs\\Acceptance.md",
+    "staged": "C:\\Users\\李帅朋\\Documents\\ChatGPT\\神秘复苏\\coordination\\hybrid25d-20261004\\05-Acceptance.md",
+    "before_sha256": "303c7eb85b966c8598520260254542e71fc27c555d40ce42056d8e92721b86f7"
+  },
+  {
+    "target": "D:\\projects\\神秘复苏\\README.md",
+    "staged": "C:\\Users\\李帅朋\\Documents\\ChatGPT\\神秘复苏\\coordination\\hybrid25d-20261004\\06-README.md",
+    "before_sha256": "d41fcf8249eecc4087d5329c6281cb7a97990415f110c094d0d7a0e8c3b71ff0"
+  },
+  {
+    "target": "C:\\Users\\李帅朋\\Documents\\ChatGPT\\神秘复苏\\README.md",
+    "staged": "C:\\Users\\李帅朋\\Documents\\ChatGPT\\神秘复苏\\coordination\\hybrid25d-20261004\\07-README.md",
+    "before_sha256": "b21a4b241993ec3f3c4d6ea83d6da84af93746ed99e3da60c350492a6d970c0b"
+  }
+]

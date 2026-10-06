@@ -1,0 +1,15 @@
+{
+  "task": "H25D-02-R1",
+  "parent_task": "H25D-02",
+  "module_root": "modules/02/Assets/Hybrid25D/World",
+  "unity_version": "6000.5.10f1",
+  "files": [
+    {"file": "HybridDoor.cs", "bytes": 1713, "sha256": "B3C5279B8EA405ADCFF0C26EDC3743013F0DA3726BCB864959100BE9F8FC266E"},
+    {"file": "HybridDoor.cs.meta", "bytes": 240, "sha256": "2DAA370CB1AFF616D5B165A41BAD70307B772581D1C891220E0CEA8D2A244104"},
+    {"file": "HybridForegroundOccluder.cs", "bytes": 2447, "sha256": "FB1EEB16A944029C3B72F52A9B37768FDD2D4D8399130AE53C863187CADF662B"},
+    {"file": "HybridForegroundOccluder.cs.meta", "bytes": 240, "sha256": "B587306AE915D1E6F266CFD80132181743309137435CB59031C4A8FAED472572"},
+    {"file": "HybridWorldFactory.cs", "bytes": 4811, "sha256": "0A3C7F0CEE9A38D0E46EC017D001F16D774F576A4D76F95082EAD2192A7B74AF"},
+    {"file": "HybridWorldFactory.cs.meta", "bytes": 240, "sha256": "7212882FC8745CA7D4C2D98172A1B47E15C413F40FA503F735F09F673EACE237"}
+  ],
+  "protected_s13_refined_sha256_before_after": "4B92F11B3F36B87CA78C66CB758CB6D66C1CD75400175A09BD564E40DBE6F495"
+}

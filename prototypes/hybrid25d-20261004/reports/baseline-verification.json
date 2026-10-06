@@ -1,0 +1,51 @@
+{
+  "task": "H25D-00",
+  "verifiedUtc": "2026-10-05T03:23:50.5199318Z",
+  "verifiedClientLocal": "2026-10-04T20:23:50.5199318-07:00",
+  "result": "PASS",
+  "checks": {
+    "sourceFileSetUnchanged": true,
+    "sourceHashesUnchanged": true,
+    "copyFileSetMatches": true,
+    "onlyTwoApprovedConfigFilesDiffer": true,
+    "manifest.json_onlyPhysicsAdded": true,
+    "manifest.json_preserves_com.unity.modules.audio": true,
+    "manifest.json_preserves_com.unity.modules.imgui": true,
+    "manifest.json_preserves_com.unity.modules.screencapture": true,
+    "physicsManifestVersion": true,
+    "packages-lock.json_onlyPhysicsAdded": true,
+    "packages-lock.json_preserves_com.unity.modules.audio": true,
+    "packages-lock.json_preserves_com.unity.modules.imageconversion": true,
+    "packages-lock.json_preserves_com.unity.modules.imgui": true,
+    "packages-lock.json_preserves_com.unity.modules.screencapture": true,
+    "physicsLockEntry": true,
+    "versionPreserved": true,
+    "graphicsPreserved": true,
+    "noRuntimeCacheCopied": true,
+    "noInternalAuditCopied": true,
+    "lockedEditorContainsBuiltinPhysics100": true
+  },
+  "checkCount": 20,
+  "failedChecks": [],
+  "sourceFileCount": 62,
+  "unchangedCopyFileCount": 60,
+  "copyDifferences": [
+    {
+      "path": "Game/Packages/manifest.json",
+      "originalSha256": "8BB9A44EB6BF360D3261F8BE3161362AAE9585B2FB92EA9990836BAA497C25FB",
+      "copySha256": "6B0ABCE3ECB238C37C4B2C8F1AA4C36C9EEB1E1055F0A18F17BC7A7F42BF0BC7"
+    },
+    {
+      "path": "Game/Packages/packages-lock.json",
+      "originalSha256": "FE7685C3E712EE3D6997F2983F2902DE91253D8A7F5358C3C359CA3334374857",
+      "copySha256": "0EC4C790557A8009A260D18EBF875FD9251C76F059E72FAD2FE61652D08D8D3F"
+    }
+  ],
+  "sourceMismatches": [],
+  "localPhysicsPackage": {
+    "sha256": "E4CEFCB8500F00E939D80FF99BEE7086A79ABB075D5A51CF1BE050345EBCEE37",
+    "path": "D:\\Unity\\Editors\\6000.5.10f1\\Editor\\Data\\Resources\\PackageManager\\BuiltInPackages\\com.unity.modules.physics\\package.json"
+  },
+  "unityStarted": false,
+  "unityRelatedProcesses": []
+}

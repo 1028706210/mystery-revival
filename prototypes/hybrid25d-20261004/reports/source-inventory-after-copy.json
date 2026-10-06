@@ -1,0 +1,374 @@
+[
+  {
+    "path": "Game/Assets/_Recovery.meta",
+    "bytes": 172,
+    "sha256": "221533F351D196FB4E601683B8609C540852070A2C1EEF6296F7AA62F29BF919",
+    "lastWriteUtc": "2026-09-22T04:02:02.9024794Z"
+  },
+  {
+    "path": "Game/Assets/_Recovery/0.unity",
+    "bytes": 4830,
+    "sha256": "EE44A07CC753550D0778FE41142CF86A2348031CEA4DFAD73C4DA0EEF56CC611",
+    "lastWriteUtc": "2026-09-22T04:02:03.3997444Z"
+  },
+  {
+    "path": "Game/Assets/_Recovery/0.unity.meta",
+    "bytes": 155,
+    "sha256": "3E24285C969F4DEB0F1D8477B950CDDA0BFE08F7AE026251057D00F4C40AB528",
+    "lastWriteUtc": "2026-09-22T04:02:03.3708079Z"
+  },
+  {
+    "path": "Game/Assets/Editor.meta",
+    "bytes": 172,
+    "sha256": "0C80F3C380BBCD44092DB897979317C692F8D40B4D15DA9151ED1C9242F9701F",
+    "lastWriteUtc": "2026-09-15T04:19:56.4848325Z"
+  },
+  {
+    "path": "Game/Assets/Editor/CorridorWindowChecks.cs",
+    "bytes": 2739,
+    "sha256": "9A30A14F448C38DAD0CFECDB1045A8FFA447AB1307FC0D5738C6CDD30A043454",
+    "lastWriteUtc": "2026-10-02T10:14:39.3502571Z"
+  },
+  {
+    "path": "Game/Assets/Editor/CorridorWindowChecks.cs.meta",
+    "bytes": 60,
+    "sha256": "38E72BA265B45D680F6561BEC45445E9D92CDC03FEC6301721E82FD413B069DB",
+    "lastWriteUtc": "2026-10-02T10:14:39.9220565Z"
+  },
+  {
+    "path": "Game/Assets/Editor/DoorIntegrationChecks.cs",
+    "bytes": 2858,
+    "sha256": "1D658ACE59DFA5A75E05D0FE6A44C0C16512EE7C6B384D09E34F31CB0991768A",
+    "lastWriteUtc": "2026-10-02T09:03:58.4969482Z"
+  },
+  {
+    "path": "Game/Assets/Editor/DoorIntegrationChecks.cs.meta",
+    "bytes": 60,
+    "sha256": "1CCE28C99F204C8BC7A4BC4ED619F6DA87541023448F97226F8E8B56454F3BDB",
+    "lastWriteUtc": "2026-10-02T08:57:45.9145466Z"
+  },
+  {
+    "path": "Game/Assets/Editor/PrototypeBuild.cs",
+    "bytes": 2647,
+    "sha256": "B149239FB7C9CD346C3A9A899983527A2086DFE78BB24E69598A01FD24FF9568",
+    "lastWriteUtc": "2026-09-15T04:26:57.2308605Z"
+  },
+  {
+    "path": "Game/Assets/Editor/PrototypeBuild.cs.meta",
+    "bytes": 59,
+    "sha256": "2C9B85A49F5D7DA8590E6D821CA28FB0C68FB9E6E465273458519FBAFD9A9616",
+    "lastWriteUtc": "2026-09-15T04:19:49.5680759Z"
+  },
+  {
+    "path": "Game/Assets/Resources.meta",
+    "bytes": 169,
+    "sha256": "B382D747650EDDB79AF6F34CC30FAB8F0FB242ED3DC2309841A7FFC8BB3F98E4",
+    "lastWriteUtc": "2026-09-22T10:51:15.5953864Z"
+  },
+  {
+    "path": "Game/Assets/Resources/corridor_window_wall.png",
+    "bytes": 35809,
+    "sha256": "063176113B0F11D4C9B2B421E60D47732A5DCBB1DB037B116D000E5E14F5EFD7",
+    "lastWriteUtc": "2026-10-02T23:48:55.3227021Z"
+  },
+  {
+    "path": "Game/Assets/Resources/corridor_window_wall.png.meta",
+    "bytes": 2246,
+    "sha256": "C2E3152E844AEC4140BDA697B23E7107293454BC275B28628FF8BF4451E9D9DA",
+    "lastWriteUtc": "2026-10-02T23:51:15.4208836Z"
+  },
+  {
+    "path": "Game/Assets/Resources/door_game_frame.png",
+    "bytes": 14657,
+    "sha256": "69EF5A537C988895EF20691BDD3390027A5ACE408E45804908F9534A5DB8EAC5",
+    "lastWriteUtc": "2026-10-02T08:57:24.3120352Z"
+  },
+  {
+    "path": "Game/Assets/Resources/door_game_frame.png.meta",
+    "bytes": 2231,
+    "sha256": "040BC0D284D6E58C2A75C9E2A08DD416A818423494D756AB705E600EB5B2FAA9",
+    "lastWriteUtc": "2026-10-02T08:59:12.6056611Z"
+  },
+  {
+    "path": "Game/Assets/Resources/door_game_leaf.png",
+    "bytes": 14666,
+    "sha256": "2E7B70DCACA40A844E4208369DEAA1FAFAE3B5A8A77FF43A2F1365EA4171B2A2",
+    "lastWriteUtc": "2026-10-02T08:57:24.3165438Z"
+  },
+  {
+    "path": "Game/Assets/Resources/door_game_leaf.png.meta",
+    "bytes": 2231,
+    "sha256": "174E50E4CE63275020187690520F97DA8272DE3BFD8E94F37ACC68DB4CABFB8F",
+    "lastWriteUtc": "2026-10-02T08:59:13.2879804Z"
+  },
+  {
+    "path": "Game/Assets/Resources/nightwalker_idle_front.png",
+    "bytes": 3227,
+    "sha256": "9A594C49AB73C96D6017D060034905D1A94FDC53D51947088DB1F5C2DD8B5C3A",
+    "lastWriteUtc": "2026-09-21T03:43:03.6883929Z"
+  },
+  {
+    "path": "Game/Assets/Resources/nightwalker_idle_front.png.meta",
+    "bytes": 2237,
+    "sha256": "61A30F81E1DD646A906148F324E0B314F6C5816A36FA52CA3791372F0B49C692",
+    "lastWriteUtc": "2026-09-26T12:34:20.4859786Z"
+  },
+  {
+    "path": "Game/Assets/Scenes.meta",
+    "bytes": 172,
+    "sha256": "8FD4E0B47D81E5D26049A29603C3C49E300739C4B50407ED428B75AA59A315C7",
+    "lastWriteUtc": "2026-09-15T04:19:57.2079262Z"
+  },
+  {
+    "path": "Game/Assets/Scenes/Prototype.unity",
+    "bytes": 4830,
+    "sha256": "EE44A07CC753550D0778FE41142CF86A2348031CEA4DFAD73C4DA0EEF56CC611",
+    "lastWriteUtc": "2026-09-16T10:38:01.7749652Z"
+  },
+  {
+    "path": "Game/Assets/Scenes/Prototype.unity.meta",
+    "bytes": 155,
+    "sha256": "64107BCB511902033E44DDCB8122DB8314E870C87D2567F58F6AED0D49521A94",
+    "lastWriteUtc": "2026-09-15T04:19:57.1983997Z"
+  },
+  {
+    "path": "Game/Assets/Scripts.meta",
+    "bytes": 172,
+    "sha256": "4057B964ACD8C7B0D224CC6A26698C5897147604B3292B7B2F90595368E99493",
+    "lastWriteUtc": "2026-09-15T04:19:56.4790675Z"
+  },
+  {
+    "path": "Game/Assets/Scripts/Domain.meta",
+    "bytes": 172,
+    "sha256": "BF14A6DFBF0924FA5B18ADCE0EC650147834ACFCA7CAB7E1CB19FB8E528EDEA1",
+    "lastWriteUtc": "2026-09-15T04:19:56.4896720Z"
+  },
+  {
+    "path": "Game/Assets/Scripts/Domain/IncidentState.cs",
+    "bytes": 2758,
+    "sha256": "992DB48AF10A0F3817A63F7E4313038C71AAB56ABA8D5D1C5FC8DDEA048D3D83",
+    "lastWriteUtc": "2026-09-14T10:08:55.7367711Z"
+  },
+  {
+    "path": "Game/Assets/Scripts/Domain/IncidentState.cs.meta",
+    "bytes": 59,
+    "sha256": "2EC07F74CFBEE57B77DE28BF6C81349193BB7F3990B7095885443B83745DEEFC",
+    "lastWriteUtc": "2026-09-15T04:19:49.5680759Z"
+  },
+  {
+    "path": "Game/Assets/Scripts/PrototypeGame.cs",
+    "bytes": 34327,
+    "sha256": "BB66A2260A03E80A80ED084CC58D245C2BEC43B6F7B677BB6655E60F473E099D",
+    "lastWriteUtc": "2026-10-03T00:04:24.7204729Z"
+  },
+  {
+    "path": "Game/Assets/Scripts/PrototypeGame.cs.meta",
+    "bytes": 59,
+    "sha256": "1FCD69268CD79325E425CEB6C807F918A5C0EA918CF187D844AEDD264E7EADD3",
+    "lastWriteUtc": "2026-09-15T04:19:49.5680759Z"
+  },
+  {
+    "path": "Game/Assets/Scripts/PrototypeSmoke.cs",
+    "bytes": 22966,
+    "sha256": "02CF715637AE9A62BDABC06E4AF6DCEDC124DBAF1FD37B136458F49BBDC51C58",
+    "lastWriteUtc": "2026-10-03T00:04:45.7796531Z"
+  },
+  {
+    "path": "Game/Assets/Scripts/PrototypeSmoke.cs.meta",
+    "bytes": 59,
+    "sha256": "73BBF54BB51CBFCA9FA2489FF753EDF2A7B04ED99262CF4FBBA9E6F866A079A3",
+    "lastWriteUtc": "2026-09-15T04:19:49.5680759Z"
+  },
+  {
+    "path": "Game/Packages/manifest.json",
+    "bytes": 155,
+    "sha256": "8BB9A44EB6BF360D3261F8BE3161362AAE9585B2FB92EA9990836BAA497C25FB",
+    "lastWriteUtc": "2026-09-15T04:19:37.5560323Z"
+  },
+  {
+    "path": "Game/Packages/packages-lock.json",
+    "bytes": 649,
+    "sha256": "FE7685C3E712EE3D6997F2983F2902DE91253D8A7F5358C3C359CA3334374857",
+    "lastWriteUtc": "2026-09-15T04:18:41.5819308Z"
+  },
+  {
+    "path": "Game/ProjectSettings/AudioManager.asset",
+    "bytes": 523,
+    "sha256": "9543C41DBFC7D3951217C4DD9481ED026EB8E529B85ECF4463969A0FEA747729",
+    "lastWriteUtc": "2026-09-15T04:18:08.8996992Z"
+  },
+  {
+    "path": "Game/ProjectSettings/ClusterInputManager.asset",
+    "bytes": 114,
+    "sha256": "40E65DD214BF254955D2C8829CA8CE2130FD3510485560CE012E9A1DDD93E623",
+    "lastWriteUtc": "2026-09-15T04:18:08.9114247Z"
+  },
+  {
+    "path": "Game/ProjectSettings/DynamicsManager.asset",
+    "bytes": 1574,
+    "sha256": "D102DD312EF330F5E5CA255C070FB34F68F59EC633D1E9FD67E2F2F6F88F66C8",
+    "lastWriteUtc": "2026-09-15T04:18:08.9032279Z"
+  },
+  {
+    "path": "Game/ProjectSettings/EditorBuildSettings.asset",
+    "bytes": 255,
+    "sha256": "7D396E195AB25585CA82BF0E0C9D458E4E03F72B18BE6A0E91FA74F8A1B72AA9",
+    "lastWriteUtc": "2026-09-15T04:19:57.2656991Z"
+  },
+  {
+    "path": "Game/ProjectSettings/EditorSettings.asset",
+    "bytes": 1705,
+    "sha256": "29BBDC2F4F4B92E0BEAD569CEC8E85C94692D2644827DE2B935CEE5443559BC0",
+    "lastWriteUtc": "2026-09-15T04:18:08.9062704Z"
+  },
+  {
+    "path": "Game/ProjectSettings/GraphicsSettings.asset",
+    "bytes": 2775,
+    "sha256": "8EF104B545EC651221D6806E99E8E3EE854916C6366D8DB57D2D6C50EAF4A9A3",
+    "lastWriteUtc": "2026-09-15T04:18:10.7806541Z"
+  },
+  {
+    "path": "Game/ProjectSettings/InputManager.asset",
+    "bytes": 5816,
+    "sha256": "D0F454DDB880912ABCAE92E3E12957A7446786BA89E24937E019FF3BBC0D4300",
+    "lastWriteUtc": "2026-09-15T04:18:08.6312225Z"
+  },
+  {
+    "path": "Game/ProjectSettings/MemorySettings.asset",
+    "bytes": 1265,
+    "sha256": "25FB3FDD1CE94347CCDCF23D5D5E446055CA81D8B3756A7DF85D614645A71AC4",
+    "lastWriteUtc": "2026-09-15T04:18:08.9155442Z"
+  },
+  {
+    "path": "Game/ProjectSettings/MultiplayerManager.asset",
+    "bytes": 157,
+    "sha256": "ABA89FD1A1DDAD182727AD82727E536D27372E90328A8196DA2A4560398983DD",
+    "lastWriteUtc": "2026-09-15T04:18:08.9170426Z"
+  },
+  {
+    "path": "Game/ProjectSettings/NavMeshAreas.asset",
+    "bytes": 1361,
+    "sha256": "7EBBF8F53B8033104E1878B95CA07A28D0954092D81C220F14196A42F651E658",
+    "lastWriteUtc": "2026-09-15T04:18:08.9072670Z"
+  },
+  {
+    "path": "Game/ProjectSettings/PackageManagerSettings.asset",
+    "bytes": 1242,
+    "sha256": "622993C5611DB4016B72DBF12DE4754A642FA96B071D2FD663CC40253DB5764E",
+    "lastWriteUtc": "2026-09-22T04:02:06.2436040Z"
+  },
+  {
+    "path": "Game/ProjectSettings/Physics2DSettings.asset",
+    "bytes": 1862,
+    "sha256": "1CFC0C8FBCEEC604FD7CD2A06C04FF05DDDEE6335B75C92B0F5715AD80BA9490",
+    "lastWriteUtc": "2026-09-15T04:18:08.9078627Z"
+  },
+  {
+    "path": "Game/ProjectSettings/PhysicsCoreProjectSettings2D.asset",
+    "bytes": 151,
+    "sha256": "BEDC5339A832C60DC3F11B84ABC4F4384DBFA20B0CD9AD6C444B907E751FC35E",
+    "lastWriteUtc": "2026-09-15T04:18:08.9175490Z"
+  },
+  {
+    "path": "Game/ProjectSettings/PresetManager.asset",
+    "bytes": 146,
+    "sha256": "29C125923FE6E29F90190D4FCE1C82D660E7051546E2C9D02908D18C9CF2436C",
+    "lastWriteUtc": "2026-09-15T04:18:08.9124214Z"
+  },
+  {
+    "path": "Game/ProjectSettings/ProjectAuditorSettings.asset",
+    "bytes": 1036,
+    "sha256": "DBF44DC7E72B2FD3110F8834C18FE632A203C898D7303601B2201B67B7D18DC9",
+    "lastWriteUtc": "2026-09-27T13:11:15.3689137Z"
+  },
+  {
+    "path": "Game/ProjectSettings/ProjectSettings.asset",
+    "bytes": 20583,
+    "sha256": "60D6DBA2106C27182AE717E3AA04BBF9EABCAC57E047B474AE3CE5F3462A8724",
+    "lastWriteUtc": "2026-09-16T10:33:07.2708856Z"
+  },
+  {
+    "path": "Game/ProjectSettings/ProjectVersion.txt",
+    "bytes": 85,
+    "sha256": "68312BD68C3D81C0DABEAA9905955FD523A6A184F4E6AE180377A1CDB8B2FD42",
+    "lastWriteUtc": "2026-09-14T10:06:56.7993525Z"
+  },
+  {
+    "path": "Game/ProjectSettings/QualitySettings.asset",
+    "bytes": 9802,
+    "sha256": "F1F893B1BE47AD2442F58338DD7C860DC1986BB317E2F5BB31084454FFABBF4C",
+    "lastWriteUtc": "2026-09-15T04:18:08.9042269Z"
+  },
+  {
+    "path": "Game/ProjectSettings/SceneTemplateSettings.json",
+    "bytes": 3535,
+    "sha256": "BB9098B3BFCDE78D93E264B96F7B77B5430E64E8C57A7AAD7F5A5D9C3945E16A",
+    "lastWriteUtc": "2026-09-15T04:19:57.2201044Z"
+  },
+  {
+    "path": "Game/ProjectSettings/TagManager.asset",
+    "bytes": 443,
+    "sha256": "996628FDC904025B83606BBFBDA4FE08C0BBE916475146110E77CDC2F22C2013",
+    "lastWriteUtc": "2026-09-15T04:18:08.6322251Z"
+  },
+  {
+    "path": "Game/ProjectSettings/TimeManager.asset",
+    "bytes": 305,
+    "sha256": "3396F52FDC16D445024E01D7A2D99DB6F0A37569D1D73C0302E9FFB857D90287",
+    "lastWriteUtc": "2026-09-15T04:18:08.9017289Z"
+  },
+  {
+    "path": "Game/ProjectSettings/UnityConnectSettings.asset",
+    "bytes": 1063,
+    "sha256": "11251DAE0356B6F43DD2C67BB511F6B7ECDA4E5DE425186BBA3297E6F3DC1C6F",
+    "lastWriteUtc": "2026-09-15T04:18:08.9104226Z"
+  },
+  {
+    "path": "Game/ProjectSettings/VersionControlSettings.asset",
+    "bytes": 172,
+    "sha256": "E199CDFA6A8F2BF33CFD47E549198F13E3EB2A5099E908FDB4E0F14D939CCC6B",
+    "lastWriteUtc": "2026-09-15T04:18:08.9145470Z"
+  },
+  {
+    "path": "Game/ProjectSettings/VFXManager.asset",
+    "bytes": 525,
+    "sha256": "2973A6AF930E142F62CDE00076BEDA8A3CC3A66D9BFCDE7A58BA7D4BE2251C26",
+    "lastWriteUtc": "2026-09-15T04:18:08.9135439Z"
+  },
+  {
+    "path": "tests/IncidentStateTests.cs",
+    "bytes": 6269,
+    "sha256": "F2033B08446F0324328885F437FA826794F18E2F1FD3C8EDA622CD92962F6BFC",
+    "lastWriteUtc": "2026-09-14T10:07:58.3500541Z"
+  },
+  {
+    "path": "tools/migration/.gitignore",
+    "bytes": 16,
+    "sha256": "307515CF4F7EA52461B7736D0F1BCA441E3034A9D976E8C75619EEC645DA3BCD",
+    "lastWriteUtc": "2026-09-14T10:12:23.2709349Z"
+  },
+  {
+    "path": "tools/migration/Move-CodexData.ps1",
+    "bytes": 9358,
+    "sha256": "3C778C8C858EC61CB678E3E5FBFEC502D32CB8F51C73455AC5A1C1B44C3C09CC",
+    "lastWriteUtc": "2026-09-14T10:12:20.7600087Z"
+  },
+  {
+    "path": "tools/migration/README.md",
+    "bytes": 4046,
+    "sha256": "7EC1000601A253862C7D327D0FC836B69AA420355383C9C5E738616C3D2715D3",
+    "lastWriteUtc": "2026-09-14T10:12:25.7577307Z"
+  },
+  {
+    "path": "tools/migration/Test-MoveCodexData.ps1",
+    "bytes": 1374,
+    "sha256": "066AB1F8BE8CC45C694D2DC9A06EABC89C6C72242220163159BE70554C0BF8D4",
+    "lastWriteUtc": "2026-09-14T10:11:23.1606801Z"
+  },
+  {
+    "path": "tools/Test-Core.ps1",
+    "bytes": 1450,
+    "sha256": "CDB37B198C4A7AF468A5165BF553865E263F3FD648487EE5AD2976BEA3A33532",
+    "lastWriteUtc": "2026-09-14T10:08:03.2987889Z"
+  }
+]

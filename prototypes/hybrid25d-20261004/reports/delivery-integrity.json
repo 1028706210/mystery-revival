@@ -1,0 +1,49 @@
+{
+  "task": "H25D-00",
+  "finishedClientLocal": "2026-10-04T20:27:23.9513552-07:00",
+  "sourceFilesRechecked": 62,
+  "sourceMismatches": 0,
+  "configDeltaVerified": true,
+  "effectiveMinutes": 12.0,
+  "remainingMinutes": 18,
+  "H25D03Released": false,
+  "productSyncAuthorized": false,
+  "files": [
+    {
+      "path": "06-baseline.md",
+      "sha256": "0266927C15315D8A61B5666159B1D9E4F561E4A1C67FC8FA9FEF495FC223F8B2"
+    },
+    {
+      "path": "baseline.json",
+      "sha256": "A1AD53B88A5E46DA1B63236292B4925EEB7D6AB711B8648D27D201199EDE4D21"
+    },
+    {
+      "path": "source-inventory-before.json",
+      "sha256": "ED8FE00EC06605B682291BDEF7536B29592447D4B3EAC0C68054C243A79C6975"
+    },
+    {
+      "path": "source-inventory-after-copy.json",
+      "sha256": "ED8FE00EC06605B682291BDEF7536B29592447D4B3EAC0C68054C243A79C6975"
+    },
+    {
+      "path": "baseline-verification.json",
+      "sha256": "13FC9628962DF6657D59636A03F810DEF90B74738C818A4FCE143DF2651AAE57"
+    },
+    {
+      "path": "baseline-verification-final.json",
+      "sha256": "ABE8545AFB2A16E137DF2B9C381AFD7687979668251F0C8BFD9C427C5CCC89BF"
+    },
+    {
+      "path": "verify-baseline.stdout.txt",
+      "sha256": "914D5A734BD4DDE7C52A01BFD193C03EB25E461D6A751304EE953A90CE0CAF93"
+    },
+    {
+      "path": "freeze-baseline.ps1",
+      "sha256": "8E7A2166C9EB45F7A90D7433D4122CD4ED7191517B6BADC07B0257CBA6EF39D3"
+    },
+    {
+      "path": "verify-baseline.ps1",
+      "sha256": "E9654F21A021C0E2278137AE4401A9C796A2EC6D46F4930DEC028216AD31B881"
+    }
+  ]
+}

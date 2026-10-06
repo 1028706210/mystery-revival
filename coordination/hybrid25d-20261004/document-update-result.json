@@ -1,0 +1,54 @@
+{
+  "utc": "2026-10-05T03:13:09.195748+00:00",
+  "result": "PASS",
+  "documents": [
+    {
+      "target": "D:\\projects\\神秘复苏\\Docs\\design\\H25D-direction-20261004.md",
+      "staged": "C:\\Users\\李帅朋\\Documents\\ChatGPT\\神秘复苏\\coordination\\hybrid25d-20261004\\00-H25D-direction-20261004.md",
+      "before_sha256": null,
+      "after_sha256": "b7f9f97903ab828e9ea95562bd04ae5fe42e1ffe9044a791cc3da2800914885b"
+    },
+    {
+      "target": "D:\\projects\\神秘复苏\\Docs\\tasks\\H25D-01-dispatch.md",
+      "staged": "C:\\Users\\李帅朋\\Documents\\ChatGPT\\神秘复苏\\coordination\\hybrid25d-20261004\\01-H25D-01-dispatch.md",
+      "before_sha256": null,
+      "after_sha256": "bd9089fd3c3d7f2de835f28a8b1fd01b540f25301b73adeabac293a643306d41"
+    },
+    {
+      "target": "D:\\projects\\神秘复苏\\Docs\\TASKS.md",
+      "staged": "C:\\Users\\李帅朋\\Documents\\ChatGPT\\神秘复苏\\coordination\\hybrid25d-20261004\\02-TASKS.md",
+      "before_sha256": "4ed8eac10ff7d3527dab592a11b4f0a29bb5f009fa13e83102a89ba0bba481ba",
+      "after_sha256": "496e95c3771f281ea01b026968f9fcc3b9c3e2d95bfbb7835a53e1246e49c9ed"
+    },
+    {
+      "target": "D:\\projects\\神秘复苏\\Docs\\GDD.md",
+      "staged": "C:\\Users\\李帅朋\\Documents\\ChatGPT\\神秘复苏\\coordination\\hybrid25d-20261004\\03-GDD.md",
+      "before_sha256": "ef83d55055eb7028ed2dbd86e72a74f6d2dd98bf68cdd373dcd8cd5b8709a11f",
+      "after_sha256": "4a251aae4117140e83c6a2978279d5b461591b0e64387b86de83cce41e135d0b"
+    },
+    {
+      "target": "D:\\projects\\神秘复苏\\Docs\\Roadmap.md",
+      "staged": "C:\\Users\\李帅朋\\Documents\\ChatGPT\\神秘复苏\\coordination\\hybrid25d-20261004\\04-Roadmap.md",
+      "before_sha256": "d7c3143485e536e1a5b5cc18724384de44e7511ae01d1d8b7571a42f23d66178",
+      "after_sha256": "64660f8a79c8b1dae10ceccbcda544fb0016f1462f20cda7747549a9cab3155d"
+    },
+    {
+      "target": "D:\\projects\\神秘复苏\\Docs\\Acceptance.md",
+      "staged": "C:\\Users\\李帅朋\\Documents\\ChatGPT\\神秘复苏\\coordination\\hybrid25d-20261004\\05-Acceptance.md",
+      "before_sha256": "303c7eb85b966c8598520260254542e71fc27c555d40ce42056d8e92721b86f7",
+      "after_sha256": "c30102477fe7708e8dd9da22c89d68ab43f91389a1c0a0e641bc04534b7b8e8d"
+    },
+    {
+      "target": "D:\\projects\\神秘复苏\\README.md",
+      "staged": "C:\\Users\\李帅朋\\Documents\\ChatGPT\\神秘复苏\\coordination\\hybrid25d-20261004\\06-README.md",
+      "before_sha256": "d41fcf8249eecc4087d5329c6281cb7a97990415f110c094d0d7a0e8c3b71ff0",
+      "after_sha256": "cb1ffe610a5e332c1aade11381ddcaa559fe86c8f0a146555e6a1a87b73b4e16"
+    },
+    {
+      "target": "C:\\Users\\李帅朋\\Documents\\ChatGPT\\神秘复苏\\README.md",
+      "staged": "C:\\Users\\李帅朋\\Documents\\ChatGPT\\神秘复苏\\coordination\\hybrid25d-20261004\\07-README.md",
+      "before_sha256": "b21a4b241993ec3f3c4d6ea83d6da84af93746ed99e3da60c350492a6d970c0b",
+      "after_sha256": "2eb8ae02077746cfacd622ec83e81efc86513e309cb6477b42359a572b09d65b"
+    }
+  ]
+}

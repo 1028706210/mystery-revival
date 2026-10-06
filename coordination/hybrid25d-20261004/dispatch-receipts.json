@@ -1,0 +1,32 @@
+{
+  "utc": "2026-10-05 03:16:07 UTC",
+  "receipts": {
+    "H25D-00": {
+      "content": [
+        {
+          "type": "text",
+          "text": "{\"threadId\":\"01a0b9a8-d522-78d0-a9ba-ec3267cf9580\"}"
+        }
+      ],
+      "isError": false
+    },
+    "H25D-01": {
+      "content": [
+        {
+          "type": "text",
+          "text": "{\"threadId\":\"01a0b9a7-f8a3-7a22-bbe1-3338999d847f\"}"
+        }
+      ],
+      "isError": false
+    },
+    "H25D-02": {
+      "content": [
+        {
+          "type": "text",
+          "text": "{\"threadId\":\"01a0b9a8-6c1b-7b82-9b71-929d0f9c8386\"}"
+        }
+      ],
+      "isError": false
+    }
+  }
+}

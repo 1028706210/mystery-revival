@@ -1,0 +1,12 @@
+{
+  "retrievedAt": "2026-09-11",
+  "tool": "read_thread",
+  "conversationId": "6a94d6f3-df14-83ea-abda-b6846471c96a",
+  "messageId": "5f23a156-a1da-4467-948c-691d0205e576",
+  "returnedChars": 12408,
+  "truncated": false,
+  "normalization": "CRLF to LF; trim final CR/LF only",
+  "bodyEqual": true,
+  "normalizedBodySHA256": "98bb3c4ebe0a45e83800fdfaa12d630cec442bba75d707f2237392987357724b",
+  "scope": "Author live verification; external re-verification pending"
+}
